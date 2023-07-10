@@ -1,8 +1,5 @@
 This repository provides the two types of summarization of privacy policies (text):
 
-<img src="https://user-images.githubusercontent.com/64551550/85221122-cc441100-b3ca-11ea-8452-77f1b34bbcb0.jpg" alt="Screen"
-	title="Screen" width="300" height="400" />
-
 ## Dataset Scrapping
 Built a Scraper for scrapping privacy policies of 100,000 websites and applications and made the dataset.
 
